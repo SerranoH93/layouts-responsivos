@@ -43,8 +43,9 @@
 
 @media screen and (min-width: 1024px) {
     .diferenciales {
-        background-color: var(--cinza-claro);
+        background-color: var(--background-ceniza-claroo);
     }
+
     .diferenciales__lista {
         justify-content: space-around;
     }
